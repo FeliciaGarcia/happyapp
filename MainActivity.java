@@ -7,11 +7,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import java.text.SimpleDateFormat;
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
+
 import java.util.Calendar;
-import java.text.SimpleDateFormat;
 import java.text.DateFormat;
 
 
@@ -23,8 +20,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-
 
 
 
